@@ -1,0 +1,113 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="gameTimer.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="Bird.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAC8AAAAiCAYAAADPuYByAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
+        DAAACwwBP0AiyAAAA7VJREFUWEfVl9lLVVEUh2//ghRBL0FvYRREw1MRNjyUjdcGqaCIEOqhEiFowKB6
+        KurJoCBpoGhwokEoLTKKJB8qocgBIjWxwaws00xv3++yNlwu5968t5Oeu+BzOGfvtX977b3XOjs0UotE
+        IuthN2yDRfY4MwzBp6EGbsIJexxsQ+hSOBkOhxugCzrhqSYAC6xZMA2Bh+Ehgj/AgNHJswrIt2bBMoQt
+        hEMIrZVYEz0MQ/CVd09gnzUPliGsGGoQ2gH9JjxiDPDuDVyy5sEwBCnixQhMJFxEow8NtD0Cc6372JqE
+        QzLhQs9+QRttL0OedR8bQ8BIIh6Lot9Dn8dwFDbDaljlwUpYAUtgNky2Yf0xHB6EOwhqgz74bQLj0YQc
+        2vvKPPVQDVVQmYAyOAfKXhts2H8zHE2DnQi5Bo2gqCstfvSgG7TXlXncZPS3numdVx/He3gLqhcXGHMH
+        zDIZKRt9oz/mwF45hAqoTEAV3IZ6eAduWzliV8cLraTOiSbaxJhXocC0pGz0HacfUyEMWyAf1oDXvtV+
+        3gRa9joEKJqDIOFeZ8ILN8leeAUX8bUH9N3kNaZDZ2Y55EA2ZLkZZMEUYxJMgPEe6Lna5EIJAz+Dz5Dq
+        BIRWQSvQjK860PdSsvOiaq6VKoHtkB0Vn67h4AxoAj0mxktkIjRZ9fkJX+ATxJ8RnTudE1X3dmgFZbZj
+        MM9kpGc42AilOGwCZadUoy/Ux22leLSi8qvVlXglE62QsqI/RRFHd0GRSjX6yRjG5yD0glLxCyiH/Tas
+        P4ZD7cPXDKgt4CUkLbAh6IdueAnnYZ0N64/hsBAeMeA3SGfrxOO2UWxqlfhT4O8NDofa+9UMoCKlQb0E
+        jQSJltjvoCSgQ6zLTzPcYgwFaboN64/hUHVBBUz7/m/iEx1Ol3m68KX9XQs34DooqxXacP4ajlVEVIGT
+        iXdR/QEuqi4lCkW4BXRHVipULs8DFSZ9MPobcWc4TiZeohXVPtooqo1wDxTV2KLkIlxkbkfHGFClW99E
+        KipOvBOtraAot9BGUdWlvQDWQnzp/38RTmQMqO/0cgSqGrpcr9/KPhJ9H85a82CZiS9DqBOvqKsyKkvo
+        lqUskWvNg2Um3kXeZQ4VFu3tXdYsmIbA2APr9nkrz0phmTULpiFQ3/kuz+uCorSnw1kEM6xZMM3EK/LK
+        Njqkz0G5ejFMtGbBNATqcnIFwbqfdvC3SvlWex1sQ+h8OI7wB6BbkXJ5jr3ODEPwAWH/ZpYhfKawf0fB
+        QqE/xPcYcD+HtosAAAAASUVORK5CYII=
+</value>
+  </data>
+  <metadata name="BirdTimer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>150, 17</value>
+  </metadata>
+  <metadata name="BirdTimer2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>270, 17</value>
+  </metadata>
+  <metadata name="TrexDTimer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>390, 20</value>
+  </metadata>
+  <metadata name="TrexDTimer2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>523, 20</value>
+  </metadata>
+  <metadata name="TrexUpTimer.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>658, 17</value>
+  </metadata>
+  <metadata name="shield_timer.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>791, 22</value>
+  </metadata>
+  <metadata name="fireballTimer.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>930, 22</value>
+  </metadata>
+  <metadata name="firerTimer.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>26, 68</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>119</value>
+  </metadata>
+</root>
